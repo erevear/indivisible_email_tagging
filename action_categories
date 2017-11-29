@@ -1,0 +1,31 @@
+Actions
+Call
+1. text contains a phone number
+2. Text contains the word "call" followed by "the", "your", "our"
+3. Text contains a script beginning with "i am calling"
+Text
+1.Text contains "send a message to"
+2. Text contains the word countable
+3. Text contains the word resistbot
+Write
+1. Text contains some combination of send, write, letter, and postcard
+2. Text contains phrase "thank you note"
+Petition
+1. Text contains "sign" then 0 to five words and "petition"
+2. Text contains the word "petition"
+Twitter
+1. Text contains a twitter handle preceded by the word tweet
+2. Text contains a hashtag preceded by the word tweet
+Donate
+1. Text contains the word "donate"
+2. Text contains the word "donations"
+3. Text contains the word "donating"
+4. Text contains "contribute" or "give" followed by some amount of money
+Email
+1. Text contains an email address 
+2. Text contains "email" followed by "your" or "the 
+
+Phone Bank
+1. Text contains "phone bank"
+Volunteer
+1. Text contains "volunteer opportunities"
